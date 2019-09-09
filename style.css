@@ -111,8 +111,20 @@
   }
 }
 
-.qwer{
+.qwer {
   background-image:url(img/1.jpg);
+  background-repeat: no-repeat;
   height: 400px;
-
+  background-size: 100%;
+  background-attachment: fixed;
 }
+
+section{
+position: relative;
+bottom: 255px;
+float: left;
+margin: 10px;
+margin-left: 100px;
+width: 30%;
+height: 40%;
+font-size: 10px;
