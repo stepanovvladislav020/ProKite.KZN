@@ -147,11 +147,11 @@ left: 35%;
 }
 
 .butt{
-  border: 3px solid #B02938;
+  border: 3px solid #C55658;
   border-radius: 50px;
   font-size: 15px;
   color: white;
-  background-color: #B02938;
+  background-color: #C55658;
   text-decoration: none;
   text-transform: uppercase;
   width: 100px;
@@ -161,8 +161,15 @@ left: 35%;
   line-height: 45px;
   font-family: arial, sans-serif;
   position: relative;
-  box-shadow: 3px 3px 3px black;
+  box-shadow: 4px 4px 5px black;
 }
 footer{
   height: 600px;
+}
+
+.view{
+  width: 20%;
+  height: 70%;
+  margin-top: 5%;
+  margin-left:20%;
 }
