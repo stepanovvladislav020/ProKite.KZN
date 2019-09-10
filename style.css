@@ -44,6 +44,7 @@ margin: 20px;
   color: white;
   font-size: 30px;
   font-family: arial black;
+  text-shadow: 1px 1px 1px #000, 0 0 1em #000;
 }
 
 #main-menu ul li a:hover {
@@ -223,8 +224,8 @@ footer{
 }
 
 .view{
-  width: 20%;
-  height: 70%;
+  width: 240px;
+  height: 300px;
   margin-top: 5%;
   margin-left:20%;
 }
